@@ -1,1 +1,1 @@
-# JavaEE-POS
+Java EE POS Management System with Hibernate
