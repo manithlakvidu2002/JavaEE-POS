@@ -16,5 +16,4 @@ MarketMate POS is an innovative, Java EE-based Point of Sale management system d
 - MySQL Server 8.0 or newer    
 
 ## Functions 
-![POS Dashboard](C:\Users\manit\OneDrive\Pictures\Screenshots\Dashboard.png "POS System Dashboard")
-
+<img src="FrontEnd/assets/images/Dashboard.png">
